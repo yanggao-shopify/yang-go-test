@@ -1,0 +1,7 @@
+name: yang-go-test
+
+type: go
+
+up:
+  - go:
+      version: '1.15'
